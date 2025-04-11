@@ -46,7 +46,7 @@
 
 I built Cwipe to solve a common issue I encountered: Finding a movie to watch together with friends across different streaming platforms. It's built with Next.js and PostgreSQL and currently deployed to Vercel. Check it out at [cwipe.vercel.app](https://cwipe.vercel.app)!
 
-![insomniac2305's Stats](https://github-readme-stats.vercel.app/api/pin/?repo=cwipe&username=insomniac2305&theme=tokyonight&show_icons=true&hide_border=true&show_owner=true)
+[![insomniac2305's Stats](https://github-readme-stats.vercel.app/api/pin/?repo=cwipe&username=insomniac2305&theme=tokyonight&show_icons=true&hide_border=true&show_owner=true)](https://github.com/insomniac2305/cwipe)
 
 ## 📊 Github stats
 
